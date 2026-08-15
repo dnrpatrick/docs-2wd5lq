@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-8av8fi.leogaming.cfd/sitemap.xml
